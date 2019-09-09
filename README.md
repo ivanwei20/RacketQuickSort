@@ -11,4 +11,4 @@ Usage:
 (**quickSort** *vec*) → [vector?](https://docs.racket-lang.org/reference/vectors.html)  
    *vec* : [vector?](https://docs.racket-lang.org/reference/vectors.html)
 
-The quicksort is a regular single-pivot one.  
+Uses the QuickSort algorithm to sort the array from least to greatest.
