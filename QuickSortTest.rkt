@@ -1,5 +1,5 @@
 #lang racket
-(require (relative-in "../RacketQuickSort.rkt"))
+(require "RacketQuickSort.rkt")
 (make-pseudo-random-generator)
 
 (define v (vector (random 0 15) (random 0 15) (random 0 15) (random 0 15) (random 0 15)))
