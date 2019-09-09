@@ -7,10 +7,8 @@ Import by dragging RacketQuickSort.rkt into the same folder as your project and 
 (require "RacketQuickSort.rkt")
 ```
 
-Usage:
-```racket
-(quickSort vec)
-   vec : vector?
-```
+Usage:  
+(**quickSort** *vec*) → [vector?](https://docs.racket-lang.org/reference/vectors.html)  
+   *vec* : [vector?](https://docs.racket-lang.org/reference/vectors.html)
 
 The quicksort is a regular single-pivot one.  
