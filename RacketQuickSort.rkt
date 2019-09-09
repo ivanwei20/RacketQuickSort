@@ -1,6 +1,5 @@
 #lang racket
 (require racket/vector)
-(make-pseudo-random-generator)
 
 (provide quickSort)
 
